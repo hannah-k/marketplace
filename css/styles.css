@@ -12,10 +12,6 @@ img {
   text-shadow: 1px 1px 1px black;
 }
 
-#available-ocelots {
-  display: none;
-}
-
 .section-row {
   border-bottom: 2px solid black;
   margin-bottom: 40px;
